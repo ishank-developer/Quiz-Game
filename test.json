@@ -1,0 +1,160 @@
+{
+    "quiz":{
+        "easy":{
+            "q1":{
+                "question": "Which of the following data types comes under floating data type?",
+                "options": [
+                    "byte",
+                    "long",
+                    "int",
+                    "float"
+                ],
+                "answer": "float"
+            },
+            "q2": {
+                "question": "Which of the following is smallest integer data type?",
+                "options": [
+                    "byte",
+                    "int",
+                    "short",
+                    "long"
+                ],
+                "answer": "byte"
+            },
+            "q3": {
+                "question": "Which of the following option leads to the portability and security of Java?",
+                "options": [
+                    "Bytecode is executed by JVM",
+                    "Use of exception handling",
+                    "Dynamic binding between objects",
+                    "The applet makes the Java code secure and portable"
+                ],
+                "answer": "Bytecode is executed by JVM"
+            },
+            "q4": {
+                "question": "Which of the following is not a Java features?",
+                "options": [
+                    "Dynamic",
+                    "Architecture Neutral",
+                    "Use of pointers",
+                    "Object-oriented"
+                ],
+                "answer": "Use of pointers"
+            },
+            "q5": {
+                "question": "What is the return type of the hashCode() method in the Object class?",
+                "options": [
+                    "Object",
+                    "int",
+                    "void",
+                    "long"
+                ],
+                "answer": "int"
+            }
+        },
+        "medium": {
+            "q1": {
+                "question": "Which of the following data types comes under floating data type?",
+                "options": [
+                    "malloc",
+                    "alloc",
+                    "new malloc",
+                    "new"
+                ],
+                "answer": "new"
+            },
+            "q2": {
+                "question": "Which of these is an incorrect Statement?",
+                "options": [
+                    "It is necessary to use new operator to initialize an array",
+                    "Array can be initialized using comma separated expressions surrounded by curly braces",
+                    "Array can be initialized when they are declared",
+                    "None of the mentioned"
+                ],
+                "answer": "It is necessary to use new operator to initialize an array"
+            },
+            "q3": {
+                "question": "Which of these is necessary to specify at time of array initialization?",
+                "options": [
+                    "Row",
+                    "Column",
+                    "Both Row and Column",
+                    "None of the mentioned"
+                ],
+                "answer": "Row"
+            },
+            "q4": {
+                "question": "Which of these is an incorrect array declaration?",
+                "options": [
+                    "int arr[] = new int[5]",
+                    "int [] arr = new int[5]",
+                    "int arr[] = new int[5]",
+                    "int arr[] = int [5] new"
+                ],
+                "answer": "int arr[] = int [5] new"
+            },
+            "q5": {
+                "question": "_____ is used to find and fix bugs in the Java programs.",
+                "options": [
+                    "JVM",
+                    "JRE",
+                    "JDK",
+                    "JDB"
+                ],
+                "answer": "JDB"
+            }
+        },
+        "hard": {
+            "q1": {
+                "question": "Which of these class is used to create an object whose character sequence is mutable?",
+                "options": [
+                    "String()",
+                    "StringBuffer()",
+                    "String() & StringBuffer()",
+                    "None of the mentioned"
+                ],
+                "answer": "StringBuffer()"
+            },
+            "q2": {
+                "question": "Which of this method of class StringBuffer is used to concatenate the string representation to the end of invoking string?",
+                "options": [
+                    "byte",
+                    "int",
+                    "short",
+                    "long"
+                ],
+                "answer": "byte"
+            },
+            "q3": {
+                "question": "Which of the following option leads to the portability and security of Java?",
+                "options": [
+                    "concat()",
+                    "append()",
+                    "join()",
+                    "concatenate()"
+                ],
+                "answer": "append()"
+            },
+            "q4": {
+                "question": "Which of these method of class StringBuffer is used to find the length of current character sequence?",
+                "options": [
+                    "length()",
+                    "Length()",
+                    "capacity()",
+                    "Capacity()"
+                ],
+                "answer": "length()"
+            },
+            "q5": {
+                "question": "Which of those is synchronized and does not allow null elements?",
+                "options": [
+                    "Vector",
+                    "CopyOnWriteArraySet",
+                    "CopyOnWriteArrayList",
+                    "ConcurrentSkipListSet"
+                ],
+                "answer": "ConcurrentSkipListSet"
+            }
+        }
+    }
+}
